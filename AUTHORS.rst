@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* RyanHuang
+* 以及他心中的二次元老婆们
 
 
