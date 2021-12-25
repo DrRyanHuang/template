@@ -17,7 +17,11 @@ Contents:
    .. *
    semi-supervised Learning
    contributing
+   readme
+   welcome/index
+   authors
 
+发生分手快乐加料口发生；是副书记啊法
 
 
 Indices and tables
