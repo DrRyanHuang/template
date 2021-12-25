@@ -14,7 +14,9 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *
+   .. *
+   semi-supervised Learning
+   contributing
 
 
 
